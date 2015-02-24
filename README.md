@@ -7,4 +7,4 @@ other. The community is going to be the main focus.
 
 update: February 5th 2015 - 
 
-I am still exploring the technology that will create the project, leaning towards AngualarJS. 
+I am still exploring the technology that will create the project, leaning towards Angular JS. 
